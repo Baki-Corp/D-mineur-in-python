@@ -1,2 +1,2 @@
-# D-mineur-in-python
+# Demineur-in-python
 Demineur game 
